@@ -1,6 +1,6 @@
 --[[
 	cavegame project
-	copyright 2019 Conarium Softare.
+	copyright 2019 Conarium Software.
 
 	--------------------------------------------------------------------------------------
 	Permission is hereby granted to any entity obtaining this software to use, 
